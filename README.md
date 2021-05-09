@@ -62,9 +62,9 @@
 
 <h3 align="center">Check out my work</h3>
 <p align="center">
-<a href="https://github.com/sabriozbek"><img title="GitHub" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/github.svg"/></a>&nbsp;&nbsp;
-<a href="https://codepen.io/ronan696"><img title="CodePen" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/codepen.svg"/></a>&nbsp;&nbsp;
-<a href="https://dribbble.com/ronan696"><img title="Dribbble" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/dribbble.svg"/></a>
+<a href="https://github.com/sabriozbek?tab=repositories"><img title="GitHub" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/github.svg"/></a>&nbsp;&nbsp;
+<a href="https://codepen.io/sabriozbek"><img title="CodePen" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/codepen.svg"/></a>&nbsp;&nbsp;
+
 </p>
 
 
@@ -72,5 +72,6 @@
 <p align="center">
 <a href="https://www.instagram.com/sabriozbek/"><img title="Instagram" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/instagram.svg"/></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sabriozbek"><img title="LinkedIn" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/linkedin.svg"/></a>
+ <a href="https://www.reddit.com/user/sabrizbk"><img title="Reddit" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/reddit.svg"/></a>
 </p>
 </p>
