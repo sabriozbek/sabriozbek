@@ -1,4 +1,4 @@
-![sabriozbek](https://www.ureducation.com/wp-content/uploads/2018/01/git.jpg "sabriozbek")
+![sabriozbek](https://i.ibb.co/JsZwfrc/github.png "sabriozbek")
 
 ## About Me
 
@@ -19,7 +19,7 @@
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&logo=html5&message=HTML5&label=&color=E34F26&labelColor=000000)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&logo=css3&message=CSS3&label=&color=1572B6&labelColor=000000)
 ![Javascript](https://img.shields.io/static/v1?style=for-the-badge&logo=javascript&message=Javascript&label=&color=F7DF1E&labelColor=000000)
-![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&logo=vue.js&message=Vue.js&label=&color=4FC08D&labelColor=000000)
+
 ![React](https://img.shields.io/static/v1?style=for-the-badge&logo=react&message=React&label=&color=61DAFB&labelColor=000000)
 ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&logo=tailwind-css&message=Tailwind%20CSS&label=&color=38B2AC&labelColor=000000)
 <br/>
@@ -35,7 +35,7 @@
 ![Eclipse IDE](https://img.shields.io/static/v1?style=for-the-badge&logo=Eclipse-IDE&message=Eclipse%20IDE&label=&color=2C2255&labelColor=000000)
 <br/>
 ![Photoshop](https://img.shields.io/static/v1?style=for-the-badge&logo=adobe-photoshop&message=Photoshop&label=&color=31A8FF&labelColor=000000)
-![GIMP](https://img.shields.io/static/v1?style=for-the-badge&logo=gimp&message=GIMP&label=&color=5C5543&labelColor=000000)
+
 ![Illustrator](https://img.shields.io/static/v1?style=for-the-badge&logo=adobe-illustrator&message=Illustrator&label=&color=FF9A00&labelColor=000000)
 ![InDesign](https://img.shields.io/static/v1?style=for-the-badge&logo=adobe-indesign&message=InDesign&label=&color=EE3D8F&labelColor=000000)
 <br/><br/>
@@ -56,13 +56,13 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/ronan696/"><img title="LinkedIn" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/linkedin.svg"/></a>&nbsp;&nbsp;
-<a href="https://twitter.com/Ronan696"><img title="Twitter" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/twitter.svg"/></a>
+<a href="https://www.linkedin.com/in/sabriozbekk/"><img title="LinkedIn" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/linkedin.svg"/></a>&nbsp;&nbsp;
+<a href="https://twitter.com/sabriozbek"><img title="Twitter" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/twitter.svg"/></a>
 </p>
 
 <h3 align="center">Check out my work</h3>
 <p align="center">
-<a href="https://github.com/ronan696"><img title="GitHub" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/github.svg"/></a>&nbsp;&nbsp;
+<a href="https://github.com/sabriozbek"><img title="GitHub" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/github.svg"/></a>&nbsp;&nbsp;
 <a href="https://codepen.io/ronan696"><img title="CodePen" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/codepen.svg"/></a>&nbsp;&nbsp;
 <a href="https://dribbble.com/ronan696"><img title="Dribbble" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/dribbble.svg"/></a>
 </p>
@@ -70,7 +70,7 @@
 
 <h3 align="center">Follow me</h3>
 <p align="center">
-<a href="https://www.instagram.com/ronan696/"><img title="Instagram" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/instagram.svg"/></a>&nbsp;&nbsp;
-<a href="https://pinterest.com/ronan696/"><img title="Pinterest" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/pinterest.svg"/></a>
+<a href="https://www.instagram.com/sabriozbek/"><img title="Instagram" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/instagram.svg"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sabriozbek/"><img title="LinkedIn" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/linkedin.svg"/></a>
 </p>
 </p>
