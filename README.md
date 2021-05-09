@@ -1,4 +1,4 @@
-![sabriozbek](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Faocattleya%2FNightSky-Background&psig=AOvVaw2Ym07pWN9hNzsF5a4mUSnU&ust=1620658797052000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLCx59PuvPACFQAAAAAdAAAAABAJ "sabriozbek")
+![sabriozbek](https://user-images.githubusercontent.com/39142850/67110554-fdea5400-f20d-11e9-834a-d459a612b7b1.gif "sabriozbek")
 
 ## About Me
 
