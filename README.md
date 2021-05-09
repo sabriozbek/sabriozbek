@@ -42,11 +42,11 @@
 
 
 <p align="center">
-<a href="https://github.com/ronan696">
+<a href="https://github.com/sabriozbek">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ronan696&theme=great-gatsby&show_icons=true&include_all_commits=true&count_private=true" />
 </a>
-<a href="https://github.com/ronan696">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronan696&layout=compact&theme=great-gatsby" />
+<a href="https://github.com/sabriozbek">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabriozbek&layout=compact&theme=great-gatsby" />
 </a>
 </p>
 
