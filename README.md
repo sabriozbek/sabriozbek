@@ -25,7 +25,7 @@
 ![Javascript](https://img.shields.io/static/v1?style=for-the-badge&logo=javascript&message=Javascript&label=&color=F7DF1E&labelColor=000000)
 
 
-![CSS](https://img.shields.io/static/v1?style=for-the-badge&logo=tailwind-css&message=Tailwind%20CSS&label=&color=38B2AC&labelColor=000000)
+
 ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 
 
