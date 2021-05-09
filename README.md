@@ -12,6 +12,10 @@
 ## Tech/Software Stack
 
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&logo=java&message=Java&label=&color=007396&labelColor=000000)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+
+
 
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&logo=python&message=Python&label=&color=3776AB&labelColor=000000)
 ![PHP](https://img.shields.io/static/v1?style=for-the-badge&logo=php&message=PHP&label=&color=777BB4&labelColor=000000)
